@@ -2,8 +2,7 @@
 
 ## Student Details
 - Student Name: Disha Srivastava
-- Roll Number: YOUR ROLL NUMBER
-
+- Roll Number: 2500320100472
 ## Project Description
 A Student Management REST API developed using Node.js and Express.js.
 
